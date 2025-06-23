@@ -45,15 +45,6 @@ Below shows the prototype system in operation on a workbench. The breadboard con
 
 ---
 
-## Demo Video
-
-Click below to see the soft finger in action. Due to fabrication challenges, only one functioning finger was demonstrated.
-
-[![Demo Video](video.png)](https://drive.google.com/file/d/1H3Qgumw2jqGGl43ViM3L39W2MdxGMY6t/view?usp=sharing)  
-*Demonstration video of the hand shaking soft robot.*
-
----
-
 ## Modeling and Results
 
 A beam bending model predicts the finger’s radius of curvature as a function of supplied air pressure. This helps confirm that increased pressure results in tighter bending.
